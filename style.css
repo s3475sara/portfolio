@@ -329,3 +329,88 @@ margin-top: 20px;
     border: none;
     margin-top: 20px;
 }
+.hidden{
+    display: none;
+}
+@media screen and (max-width:600px){
+    .navBar{
+        flex-direction: column;
+        padding: 50px 20px;
+        align-items: center;
+    }
+    .sara{
+        flex-direction: column;
+        padding-left: 120px;
+        margin-left: 20px;
+    }
+    .summary{
+        flex-direction:column;
+        margin: 0px 20px;
+        grid-template-columns: 1fr;
+    }
+   .what{
+    margin: 0px;
+    margin-bottom: 30px;
+   }
+   .p{
+    padding: 30px 20px;
+   }
+   .js{
+    flex-direction: column;
+    margin-top: 850px;
+    margin-left: 20px;
+    
+   } 
+   .js1{
+    flex-direction: column;
+    padding: 5px;
+   }
+   .js2{
+    flex-direction: column;
+    padding: 5px;
+   }
+   .js3{
+    flex-direction: column;
+    padding: 5px;
+   }
+   .js4{
+    flex-direction: column;
+    padding: 5px;
+   }
+   .pucki{
+    margin: 0px;
+    padding: 0px;
+    height: 0px;
+    width: 100px;
+   }
+   .sharmin{
+    margin: 0px 20px;
+   }
+   .jj{
+    flex-direction: column;
+   }
+.mother{
+    flex-direction: column;
+    height: 0px;
+    width: 400px;
+    margin: 0px 20px;
+}
+.ma1{
+
+margin-left: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+}
+.ma2{
+margin-top: 20px;
+margin-right: 0px;
+margin-left: 100px;
+}
+.sspp{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.nn{
+    margin-left: 20px;
+}
+}
